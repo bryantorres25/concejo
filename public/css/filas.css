@@ -1,0 +1,13 @@
+.selected {
+    cursor: pointer;
+}
+
+.selected:hover {
+    background-color: #0585C0;
+    color: white;
+}
+
+.seleccionada {
+    background-color: #0585C0;
+    color: white;
+}
